@@ -1,13 +1,10 @@
-## Welcome to PJY's 1st GitHub
+## Welcome to PJY's 1st GitHub Profile
 
 Short bio: Co-Founder of Bebop Asia | 15 years of experience in PR | Getting clients published on The WSJ, TechCrunch, & Bloomberg.
 
 Strengths: Specialises in creating meaningful and long-lasting conversations about gamechanging
 businesses that go after grand ideas.
 Weaknesses: Lacking coding skills and will continue learning from online courses.
-
-```markdown
-Syntax highlighted code block
 
 Key interests in life
 # Family
@@ -25,11 +22,6 @@ _Since '95_
 - Planned and carried out campaigns that generated over $25 million SGD in free press
 - Secured over $3.5 million SGD in cash and in-kind sponsorship
 - Organized corporate events, concerts and showcases all around Asia in which were attended by over 500,000 people
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more professional details see [PJY LinkedIn](https://www.linkedin.com/in/peterjustinyu/).
 For more personal updates see [PJY Twitter](https://twitter.com/PeterJustinYu)
