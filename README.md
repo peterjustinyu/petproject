@@ -4,6 +4,7 @@ Short bio: Co-Founder of Bebop Asia | 15 years of experience in PR | Getting cli
 
 Strengths: Specialises in creating meaningful and long-lasting conversations about gamechanging
 businesses that go after grand ideas.
+
 Weaknesses: Lacking coding skills and will continue learning from online courses.
 
 Key interests in life
@@ -23,5 +24,6 @@ _Since '95_
 - Secured over $3.5 million SGD in cash and in-kind sponsorship
 - Organized corporate events, concerts and showcases all around Asia in which were attended by over 500,000 people
 
-For more professional details see [PJY LinkedIn](https://www.linkedin.com/in/peterjustinyu/).
+For more professional details see [PJY LinkedIn](https://www.linkedin.com/in/peterjustinyu/)
+
 For more personal updates see [PJY Twitter](https://twitter.com/PeterJustinYu)
